@@ -1,0 +1,8 @@
+[requires]
+protobuf/3.13.0
+cppzmq/4.7.1
+gtest/1.10.0
+
+[generators]
+cmake_find_package
+cmake_paths
